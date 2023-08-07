@@ -1,0 +1,13 @@
+---
+name: zrm_aux_lts
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: true
+min_phrase_weight: 100
+import_tables:
+  - zrm_aux_lts.single
+  - zrm_aux_lts.base
+  - zrm_aux_lts.computer
+  - zrm_aux_lts.mydicts
+
+...

@@ -1,0 +1,9 @@
+# 文件夹
+/build
+/luna_pinyin.userdb
+/zrm_aux_lts.userdb
+/sync
+
+
+# 个人字典
+zrm_aux_lts.mydicts.dict.yaml
