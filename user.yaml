@@ -1,8 +1,8 @@
 var:
-  last_build_time: 1697697084
+  last_build_time: 1706773113
   option:
     simplification: true
   previously_selected_schema: zrm_aux_lts
   schema_access_time:
-    double_pinyin: 1691401122
-    zrm_aux_lts: 1691406765
+    double_pinyin: 1706748342
+    zrm_aux_lts: 1706748362

@@ -1,7 +1,8 @@
-distribution_code_name: Weasel
-distribution_name: "小狼毫"
-distribution_version: 0.15.0.0
+distribution_code_name: "ibus-rime"
+distribution_name: Rime
+distribution_version: 1.5.0
 install_time: "Mon Aug  7 17:12:15 2023"
 installation_id: "Rime-zrm-aux-lts"
-rime_version: 1.8.5
-sync_dir: 'D:\00v\workspace\Rime_zrm_aux-lts'
+rime_version: 1.7.3
+sync_dir: "Rime_zrm_aux-lts"
+update_time: "Thu Feb  1 08:41:54 2024"
